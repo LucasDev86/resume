@@ -1,3 +1,3 @@
 # 이력서
 
-http://naver.com
+[googlelink]: https://google.com "Go google"
