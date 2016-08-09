@@ -1,3 +1,3 @@
 # 이력서
 
-<a href = "http://naver.com"/>
+http://naver.com
