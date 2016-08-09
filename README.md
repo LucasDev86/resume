@@ -1,3 +1,3 @@
 # 이력서
 
-https://google.com "Go google"
+syntax: [Go google](https://google.com)
