@@ -85,11 +85,11 @@
 - (새로 리뉴얼됨)
 
 ### 인아오리엔탈모터 사이트
-사이트 및 서버 유지보수
+사이트 및 서버 유지보수, 영업관리 APP 작업
 - 기간 : 2014/10 ~ 2015/02
 - 소속 : 인아그룹
-- 역할 : 사이트 및 서버관리
-- 사용기술 : JSP , RESIN서버, MS-SQL
+- 역할 : 사이트 및 서버관리, Android
+- 사용기술 : JSP, Android, RESIN서버, MS-SQL
 - [그룹웨어](http://intra.inaom.co.kr/)
 - [사이트](https://www.inaom.co.kr/)
 
