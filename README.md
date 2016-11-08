@@ -54,7 +54,7 @@
 - (서비스 종료)
 
 <img src="images/Thai_1.png" width="160"/>   <img src="images/Thai_2.png" width="160"/>   <img src="images/Thai_3.png" width="160"/>
-<img src="images/Thai_4.png" width="160"/>   <img src="images/Thai_5.png" width="160"/>   <img src="images/Thai_6.png" width="160"/>
+<img src="images/Thai_4.png" width="160"/>   <img src="images/Thai_5.png" width="160"/>   
 
 ### 포토메모리즈
 스튜디오 웨딩사진 관련 예약&결재 시스템
