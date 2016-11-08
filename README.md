@@ -1,3 +1,3 @@
 # 이력서
 
-[Go google](https://google.com)
+[Github](https://github.com/LucasDev86)
