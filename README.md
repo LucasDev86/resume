@@ -35,6 +35,9 @@
 - 사용기술 : JAVA, RxJava, MVP, 이니시스 결재, SNS(카카오톡, 페이스북)연동
 - [AppStore](https://play.google.com/store/apps/details?id=com.tablenjoy&hl=ko)
 
+ <img src="images/TNJ_1.png" width="160"/>   <img src="images/TNJ_2.png" width="160"/>   <img src="images/TNJ_3.png" width="160"/>
+ <img src="images/TNJ_4.png" width="160"/>   <img src="images/TNJ_5.png" width="160"/>  
+
 ### 레스토랑엔조이
 레스토랑 구매 & 예약 시스템
 - 기간 : 2015/12 ~ 2016/03
