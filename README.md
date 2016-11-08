@@ -17,3 +17,15 @@
 
 [육군부사] [12사]
 - 2007/02 ~ 2011/09
+
+## 회사 프로젝트
+
+### 테이블엔조이
+
+- 소속 : 테이블엔조이
+- 역할 : Android 앱 개발
+- 기간 : 2015/11/17 ~ 현재
+- 사용기술 : RxJava , MVP
+- [AppStore](https://play.google.com/store/apps/details?id=com.tablenjoy&hl=ko)
+
+
