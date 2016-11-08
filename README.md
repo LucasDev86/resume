@@ -42,6 +42,7 @@
 - 역할 : Android
 - 사용기술 : Android, API(PHP)
 - (새로 리뉴얼됨)
+
  <img src="images/RNJ_01.png" width="160"/>   <img src="images/RNJ_02.png" width="160"/>   <img src="images/RNJ_03.png" width="160"/>
 
 ### 태국대사관
