@@ -62,12 +62,21 @@
 
 ### 카툰쳇
 카툰쳇 유지보수 및 스타기능 추가
-- 기간 : 2015/02 ~ 2015/05
+- 기간 : 2015/02 ~ 2015/03
 - 소속 : 에스소프트
 - 역할 : Android 유지보수 및 기능추가
 - 사용기술 : Android ,API(PHP)
 - [AppStore](https://play.google.com/store/apps/details?id=com.nanol.cartoonchat_2)
+- (새로 리뉴얼됨)
 
+### 블라인드미팅
+1:1 채팅앱 / 쿠투결재 작업
+- 기간 : 2015/04 ~ 2015/05
+- 소속 : 에스소프트
+- 역할 : Android 유지보수 및 기능추가
+- 사용기술 : Android , API(PHP)
+- [AppStore](https://play.google.com/store/apps/details?id=app.thof.blindmeeting)
+- (새로 리뉴얼됨)
 
 
 
