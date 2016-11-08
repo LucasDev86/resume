@@ -25,7 +25,7 @@
 - 소속 : 테이블엔조이
 - 역할 : Android 앱 개발
 - 기간 : 2016/03 ~ 현재
-- 사용기술 : JAVA, RxJava, MVP, 이니시스 결재
+- 사용기술 : JAVA, RxJava, MVP, 이니시스 결재, SNS(카카오톡, 페이스북)연동
 - [AppStore](https://play.google.com/store/apps/details?id=com.tablenjoy&hl=ko)
 
 ### 레스토랑엔조이
@@ -35,6 +35,15 @@
 - 역할 : Android
 - 사용기술 : Android, API(PHP)
 - (새로 리뉴얼됨)
+
+### 태국대사관
+위치기반으로 태국 음식점 및 태국과일 소개앱
+- 기간 : 2015/09 ~ 2015/11
+- 소속 : 에스소프트
+- 역할 : Android 앱개발, 관리페이지 , 서버
+- 사용기술 : Android, Mysql, PHP
+- (서비스 종료)
+
 
 
 
