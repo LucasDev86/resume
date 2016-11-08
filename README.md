@@ -18,6 +18,12 @@
 육군 통신부사관 [12사]
 - 2007/02 ~ 2011/09
 
+## 교육수료
+- 차세대 UIUX 멀티플랫폼 전문가 과정
+- 2014/03 ~ 2014/08
+- 교육내용 : JAVA, ANDROID, DATABASE
+
+
 ## 회사 프로젝트
 
 ### 테이블엔조이
@@ -78,5 +84,13 @@
 - [AppStore](https://play.google.com/store/apps/details?id=app.thof.blindmeeting)
 - (새로 리뉴얼됨)
 
+### 인아오리엔탈모터 사이트
+사이트 및 서버 유지보수
+- 기간 : 2014/10 ~ 2015/02
+- 소속 : 인아그룹
+- 역할 : 사이트 및 서버관리
+- 사용기술 : JSP , RESIN서버, MS-SQL
+- [그룹웨어](http://intra.inaom.co.kr/)
+- [사이트](https://www.inaom.co.kr/)
 
 
