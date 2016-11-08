@@ -44,6 +44,22 @@
 - 사용기술 : Android, Mysql, PHP
 - (서비스 종료)
 
+### 포토메모리즈
+웨딩사진 관련 예약&결재 시스템
+- 기간 : 2015/06 ~ 2015/09
+- 소속 : 에스소프트
+- 역할 : Android 앱개발, 관리페이지 , 서버
+- 사용기술 : Android, Mysql, PHP
+- [AppStore](https://play.google.com/store/apps/details?id=com.ssoft.photomemories)
+
+### 그레이스벨
+바탕화면 다운로드 및 공유 APP
+- 기간 : 2015/06 ~ 2015/9
+- 소속 : 에스소프트
+- 역할 : Android 앱개발, 관리페이지 , 서버
+- 사용기술 : Android, Mysql, PHP
+- [AppStore](https://play.google.com/store/apps/details?id=com.gracebell)
+
 
 
 
