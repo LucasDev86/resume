@@ -67,8 +67,8 @@
 - 사용기술 : Android, Mysql, PHP
 - [AppStore](https://play.google.com/store/apps/details?id=com.ssoft.photomemories)
 
-<img src="images/photo1.png" width="160"/>   <img src="images/photo2.png" width="160"/>   <img src="images/photo3.png" width="160"/>
-<img src="images/photo4.png" width="160"/>   <img src="images/photo5.png" width="160"/>
+<img src="images/photo1.jpg" width="160"/>   <img src="images/photo2.jpg" width="160"/>   <img src="images/photo3.jpg" width="160"/>
+<img src="images/photo4.jpg" width="160"/>   <img src="images/photo5.jpg" width="160"/>
 
 ### 그레이스벨
 바탕화면 다운로드 및 공유 APP
