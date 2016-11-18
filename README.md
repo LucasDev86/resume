@@ -2,6 +2,8 @@
 
 [Github](https://github.com/LucasDev86)
 
+[NaverBlog](http://m.blog.naver.com/PostList.nhn?blogId=juseyo86)
+
 ## 경력
 [테이블엔조이](http://www.tablenjoy.com/)
 - 2015/12 ~ 현재
