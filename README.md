@@ -6,19 +6,19 @@
 
 ## 경력
 
-[한일네트웍스](http://http://www.hanilnetworks.com/)
+[한일네트웍스] 대리(http://http://www.hanilnetworks.com/)
 - 2018/05 ~ 현재
 
-[한미헬스케어](http://www.hanmihealthcare.co.kr/)
+[한미헬스케어] 사원(http://www.hanmihealthcare.co.kr/)
 - 2017/04 ~ 2018/04
 
-[테이블엔조이](http://www.tablenjoy.com/)
+[테이블엔조이] 주임(http://www.tablenjoy.com/)
 - 2015/12 ~ 2017/03
 
-에스소프트  [폐업]
+에스소프트  [폐업] 사원
 - 2015/02 ~ 2015/12
 
-[인아오리엔탈모터](http://www.inaom.co.kr/)
+[인아오리엔탈모터] 인턴(http://www.inaom.co.kr/)
 - 2014/10/ ~ 2015/02
 
 ## 군경력
@@ -32,6 +32,7 @@
 육군 통신부사관 [12사단]
 - 2007/02 ~ 2011/09
  * GOP 1년근무
+ 
 ## 교육수료
 - 교육기관 : (주)중앙HTA
 - 차세대 UIUX 멀티플랫폼 전문가 과정
