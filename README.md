@@ -56,6 +56,37 @@
 
 ## 프로젝트
 
+### 여행119
+여행자보험 가입플랫폼
+- 소속 : 한일네트웍스
+- 역할 : Android 앱 개발
+- 기간 : 2018/05 ~ 2019/06
+- 사용기술 : kotlin, RxJava, MVP, MVVM, LG U+, SNS(카카오톡, 페이스북)연동
+- [AppStore](https://play.google.com/store/apps/details?id=com.hanil.travel)
+
+<img src="images/119_1.png" width="160"/>   <img src="images/119_2.png" width="160"/>   <img src="images/119_3.png" width="160"/>
+ <img src="images/119_4.png" width="160"/>   <img src="images/119_5.png" width="160"/>  
+
+### 한미
+## 한미약품 영업관리앱 
+  - 주요기능 : 거래처관리 / GPS 기반 업무처리
+  - 개발환경 : 안드로이드
+  - 2018 식음료 지원 지출보고서 개발(보건복지부 시연)
+## 온라인팜 영업관리 App 
+  - 주요기능 : 주문 / 수금 / KSNET 결제시스템 
+  - 개발환경 : 안드로이드
+  - 매출할인 프로그램 개발
+## 메디케어 영업관리 App
+  - 주요기능 : 주문 / 수금 / 영업 전반 관리
+  - 개발환경 : 앵귤러.js / 아이오닉 / 스프링 api / 코도바
+  - 메디케어 영업사원이 사용하는 하이브리드 앱 유지보수 담당
+## 한미톡 한미약품 그룹사 채팅앱 
+- 소속 : 한미IT
+- 역할 : Android 앱 개발
+- 기간 : 2017/04 ~ 2018/04
+
+<img src="images/sfa1.png" width="160"/>   <img src="images/talk.png" width="160"/>
+
 ### 테이블엔조이
 레스토랑 구매 & 예약 시스템
 - 소속 : 테이블엔조이
