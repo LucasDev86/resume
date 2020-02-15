@@ -65,6 +65,17 @@
 
 ## 프로젝트
 
+### 제주항공
+- 소속 : 제주항공
+- 역할 : Android 앱 개발
+- 기간 : 2019/06 ~ 현재
+- Android 사용기술 : Java, kotlin, RxJava, MVP, OCR
+- [AppStore](https://play.google.com/store/apps/details?id=com.parksmt.jejuair.android16&hl=ko)
+
+<img src="images/android_0.png" width="160"/> <img src="images/android_1.png" width="160"/> <img src="images/android_2.png" width="160"/> <img src="images/android_3.png" width="160"/> <img src="images/android_4.png" width="160"/> <img src="images/android_5.png" width="160"/> <img src="images/android_6.png" width="160"/> <img src="images/android_7.png" width="160"/>
+
+<img src="images/ios_.jpeg" width="160"/> <img src="images/ios_passport.jpeg" width="160"/>
+
 ### 여행119
 여행자보험 가입플랫폼
 - 소속 : 한일네트웍스
@@ -81,9 +92,9 @@
 - 소속 : 한일네트웍스
 - 역할 : Android 앱 개발
 - 기간 : 2018/05 ~ 2019/06
-- 사용기술 : Java, Stt(구글), TTs(셀바스), 
+- 사용기술 : Java, Stt(구글), TTs(셀바스), 구글차트
 
-<img src="images/blackbox1.png" width="160"/><img src="images/blackbox2.png" width="160"/>   <img src="images/blackbox3.png" width="160"/><img src="images/blackbox4.png" width="160"/><img src="images/blackbox5.png" width="160"/>  
+<img src="images/blackbox1.png" width="160"/> <img src="images/blackbox2.png" width="160"/>   <img src="images/blackbox3.png" width="160"/> <img src="images/blackbox4.png" width="160"/> <img src="images/blackbox5.png" width="160"/>  
 
 
 ### 한미
