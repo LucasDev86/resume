@@ -77,15 +77,13 @@
  <img src="images/119_4.png" width="160"/>   <img src="images/119_5.png" width="160"/>  
 
 ### 블랙박스
-상담챗봇(감정점수 )
+상담챗봇(감정점수 그래프 표현)
 - 소속 : 한일네트웍스
 - 역할 : Android 앱 개발
 - 기간 : 2018/05 ~ 2019/06
-- 사용기술 : Java, Stt(구글), TTs(셀바스)
+- 사용기술 : Java, Stt(구글), TTs(셀바스), 
 
-<img src="images/blackbox1.png" width="160"/>   <img src="images/blackbox2.png" width="160"/>   
-<img src="images/blackbox3.png" width="160"/>   <img src="images/blackbox4.png" width="160"/>   
-<img src="images/blackbox5.png" width="160"/>  
+<img src="images/blackbox1.png" width="160"/><img src="images/blackbox2.png" width="160"/>   <img src="images/blackbox3.png" width="160"/><img src="images/blackbox4.png" width="160"/><img src="images/blackbox5.png" width="160"/>  
 
 
 ### 한미
