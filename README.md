@@ -82,8 +82,10 @@
 - 역할 : Android 앱 개발
 - 기간 : 2018/05 ~ 2019/06
 - 사용기술 : Java, Stt(구글), TTs(셀바스)
-<img src="images/blackbox1.png" width="160"/>   <img src="images/blackbox2.png" width="160"/>   <img src="images/blackbox3.png" width="160"/>
- <img src="images/blackbox4.png" width="160"/>   <img src="images/blackbox5.png" width="160"/>  
+
+<img src="images/blackbox1.png" width="160"/>   <img src="images/blackbox2.png" width="160"/>   
+<img src="images/blackbox3.png" width="160"/>   <img src="images/blackbox4.png" width="160"/>   
+<img src="images/blackbox5.png" width="160"/>  
 
 
 ### 한미
