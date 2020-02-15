@@ -72,7 +72,7 @@
 - Android 사용기술 : Java, kotlin, RxJava, MVP, OCR
 - [AppStore](https://play.google.com/store/apps/details?id=com.parksmt.jejuair.android16&hl=ko)
 
-<img src="images/android_0.png" width="160"/> <img src="images/android_1.png" width="160"/> <img src="images/android_2.png" width="160"/> <img src="images/android_3.png" width="160"/> <img src="images/android_4.png" width="160"/> <img src="images/android_5.png" width="160"/> 
+<img src="images/android_0.png" width="160"/> <img src="images/android_1.png" width="160"/> <img src="images/android_2.png" width="160"/> <img src="images/android_3.png" width="160"/> <img src="images/android_4.png" width="160"/>
 
 <img src="images/ios_.jpeg" width="160"/> <img src="images/ios_passport.jpeg" width="160"/>
 
