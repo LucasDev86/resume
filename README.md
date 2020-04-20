@@ -57,19 +57,14 @@
 - 2019/11 ~ 2020/12
 - 교육내용 : Swift 언어 기초, ios 앱 개발
 
-## 강의경력
-### 교육기관 : 분당 월드컴퓨터학원
-- 대상 : 중고등학생
-- 강의내용 : 자바, 안드로이드 프로젝트
-- 2020/02 ~ 현재
 
 ## 프로젝트
 
 ### 제주항공
 - 소속 : 제주항공
-- 역할 : Android 앱 개발
+- 역할 : Android 앱 개발 , iOS 앱개발
 - 기간 : 2019/06 ~ 현재
-- Android 사용기술 : Java, kotlin, RxJava, MVP, OCR 여권스캔
+- 사용기술 : Java, kotlin, RxJava, MVP, OCR 여권스캔
 - 크래시 오류율 0.5미만유지, 중국 텐센트, 360마켓 사용
 - [AppStore](https://play.google.com/store/apps/details?id=com.parksmt.jejuair.android16&hl=ko)
 
