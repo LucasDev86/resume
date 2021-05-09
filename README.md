@@ -7,7 +7,7 @@
 ## 경력
 
 [제주항공] 대리(https://www.jejuair.net/)
-- 2019/06 ~ 현재
+- 2019/06 ~ 2020/11
 
 [한일네트웍스] 대리(http://http://www.hanilnetworks.com/)
 - 2018/05 ~ 2019/06
