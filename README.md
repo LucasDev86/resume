@@ -67,7 +67,7 @@
 ### 제주항공
 - 소속 : 제주항공
 - 역할 : Android , iOS 개발
-- 기간 : 2019/06 ~ 현재
+- 기간 : 2019/06 ~ 2020/11
 - 사용기술 : Java, swift ,kotlin, RxJava, MVP, OCR 여권스캔
 - 크래시 오류율 0.5미만유지, 중국 텐센트, 360마켓 사용
 - [AppStore](https://play.google.com/store/apps/details?id=com.parksmt.jejuair.android16&hl=ko)
